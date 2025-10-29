@@ -25,7 +25,8 @@ ii) **V-Model:** This is an extension of the Waterfall model. For every developm
 They involve building the software in small, repeated cycles (iterations), allowing for flexibility and feedback.
 
 **Agile:** It is a Concept that is of short development "sprints" to deliver working software quickly. Common Agile frameworks include  
-    **i) Scrum:** Focuses on managing work in short, timed iterations. For each sprint it should mainly have 'working model'.
+
+   **i) Scrum:** Focuses on managing work in short, timed iterations. For each sprint it should mainly have 'working model'.
 
 **Prototype Model:** This model involves building a "prototype" (a mock-up or early version) of the software to show to the user. This is great for gathering early feedback on requirements before building the full, final product.
 
