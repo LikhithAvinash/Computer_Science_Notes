@@ -6,7 +6,7 @@ iii) Launch the product fast
 iv) Making the process small and easier  
 v) To make the product that is Suitable to the goal(Users)  
    <details>
-      ![SDLC Diagram](https://github.com/LikhithAvinash/Computer_Science_Notes/raw/master/Software_Engineering/assets/SDLC.png)
+      ![SDLC Diagram](assets/SDLC.png)
     </details>
 ## The above reason is why the SDLC is created
 In this there are 2 types  
