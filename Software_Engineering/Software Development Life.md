@@ -30,8 +30,11 @@ ii) V-Model: This is an extension of the Waterfall model. For every development 
     Stage_4: Review: Show the prototype to the client/user. Do they like it? Did it solve the risk? What should we do in the next loop?  
 
 ### Traditional vs Evolutionary
+<details>
+   <summary>Traditional vs Evolutionary</summary>
+   <img width="675" height="899" alt="Traditional vs Evolutionary" src="https://github.com/user-attachments/assets/cd2fcf0a-1f24-4f4c-9b80-b1491d7ba11c" />
+</details>
 
-<img width="675" height="899" alt="Traditional vs Evolutionary" src="https://github.com/user-attachments/assets/cd2fcf0a-1f24-4f4c-9b80-b1491d7ba11c" />
 
 
 
