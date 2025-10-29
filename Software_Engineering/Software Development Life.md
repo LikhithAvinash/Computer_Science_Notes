@@ -8,6 +8,7 @@ v) To make the product that is Suitable to the goal(Users)
    <details>
       ![SDLC Diagram](https://github.com/LikhithAvinash/Computer_Science_Notes/blob/master/Software_Engineering/assets/SDLC.png)
     </details>
+    
 ## The above reason is why the SDLC is created
 In this there are 2 types  
 a) Traditional b) Evolutionary 
