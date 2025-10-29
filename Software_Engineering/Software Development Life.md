@@ -46,7 +46,7 @@ They involve building the software in small, repeated cycles (iterations), allow
 </details>
 
 <details>
-  <summary>📊 Traditional vs Evolutionary Models</summary>
+  <summary>📊 Traditional Models Example</summary>
   <img 
     src="https://github.com/LikhithAvinash/Computer_Science_Notes/blob/master/Software_Engineering/assets/traditional.png?raw=true" 
     alt="Traditional vs Evolutionary Models" 
@@ -56,7 +56,7 @@ They involve building the software in small, repeated cycles (iterations), allow
 </details>
 
 <details>
-  <summary>📈 Evolutionary Models Overview</summary>
+  <summary>📈 Evolutionary Models Example</summary>
   <img 
     src="https://github.com/LikhithAvinash/Computer_Science_Notes/blob/master/Software_Engineering/assets/Evolutionary.png?raw=true" 
     alt="Evolutionary Models" 
