@@ -31,7 +31,7 @@ ii) **V-Model:** This is an extension of the Waterfall model. For every developm
     Stage_3: Build: Make a small version (a prototype) of the product that specifically tests and solves that big risk.  
     Stage_4: Review: Show the prototype to the client/user. Do they like it? Did it solve the risk? What should we do in the next loop?  
     <details>
-      <img width="675" height="899" alt="Traditional vs Evolutionary" src="https://github.com/user-attachments/assets/TE.png" />
+      ![SDLC Diagram](https://github.com/LikhithAvinash/Computer_Science_Notes/raw/master/Software_Engineering/assets/SDLC.png)
     </details>
 
 ### Traditional vs Evolutionary
