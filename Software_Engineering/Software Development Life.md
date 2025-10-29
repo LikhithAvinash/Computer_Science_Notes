@@ -1,19 +1,19 @@
-# Software Development Life Cycle(SDLC)
+# 🧩 Software Development Life Cycle(SDLC)
 It is used by many Software Companies such as Google,Microsoft,wipro,Tcs etc so that the development process will be easier without any of the following issues  
-i) Bugs  
-ii) Cost  
-iii) Launch the product fast  
-iv) Making the process small and easier  
-v) To make the product that is Suitable to the goal(Users)  
+🐞 Bugs  
+💰 Cost  
+🚀 Launch the product fast  
+⚙️ Making the process small and easier  
+🎯 To make the product that is Suitable to the goal(Users)  
    <details>
       ![SDLC Diagram](https://github.com/LikhithAvinash/Computer_Science_Notes/blob/master/Software_Engineering/assets/SDLC.png)
     </details>
     
-## The above reason is why the SDLC is created
+👆 The above reason is why the SDLC is created
 In this there are 2 types  
 a) Traditional b) Evolutionary 
 
-### Traditional ###
+### 🏗️ Traditional ###
 These models follow a strict, step-by-step process. You must finish one phase completely before moving on to the next.  
 
 i) **Waterfall model:** It's a linear, sequential flow where progress moves steadily downwards (like a waterfall) through the phases of requirements, design, implementation, testing, and maintenance.  
@@ -21,7 +21,7 @@ i) **Waterfall model:** It's a linear, sequential flow where progress moves stea
 
 ii) **V-Model:** This is an extension of the Waterfall model. For every development phase (like design), there is a corresponding testing phase (like test design) running in parallel. It places a strong emphasis on testing.  
 
-### Evolutionary
+### 🔁 Evolutionary
 They involve building the software in small, repeated cycles (iterations), allowing for flexibility and feedback.
 
 **Agile:** It is a Concept that is of short development "sprints" to deliver working software quickly. Common Agile frameworks include  
@@ -39,7 +39,7 @@ They involve building the software in small, repeated cycles (iterations), allow
     
    <details>![Spiral Model](https://github.com/LikhithAvinash/Computer_Science_Notes/blob/master/Software_Engineering/assets/spiral.png)</details>
 
-### Traditional vs Evolutionary
+### ⚖️ Traditional vs Evolutionary
 <details>
    <summary>Traditional vs Evolutionary</summary>
    <img width="675" height="899" alt="Traditional vs Evolutionary" src="https://github.com/user-attachments/assets/cd2fcf0a-1f24-4f4c-9b80-b1491d7ba11c" />
