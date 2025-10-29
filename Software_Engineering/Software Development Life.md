@@ -30,6 +30,9 @@ ii) **V-Model:** This is an extension of the Waterfall model. For every developm
     Stage_2: Risk Analysis: Ask, "What is the biggest thing that could make this project fail?" (e.g., the technology is too slow, the budget is too small, etc.).  
     Stage_3: Build: Make a small version (a prototype) of the product that specifically tests and solves that big risk.  
     Stage_4: Review: Show the prototype to the client/user. Do they like it? Did it solve the risk? What should we do in the next loop?  
+    <details>
+      <img width="675" height="899" alt="Traditional vs Evolutionary" src="https://github.com/user-attachments/assets/TE.png" />
+    </details>
 
 ### Traditional vs Evolutionary
 <details>
