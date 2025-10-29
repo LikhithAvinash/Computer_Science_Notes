@@ -15,6 +15,7 @@ a) Traditional b) Evolutionary
 ### Traditional: These models follow a strict, step-by-step process. You must finish one phase completely before moving on to the next.  
 
 i) **Waterfall model:** It's a linear, sequential flow where progress moves steadily downwards (like a waterfall) through the phases of requirements, design, implementation, testing, and maintenance.  
+<details>![Waterfall](https://github.com/LikhithAvinash/Computer_Science_Notes/blob/master/Software_Engineering/assets/waterfall.png)</details>
 
 ii) **V-Model:** This is an extension of the Waterfall model. For every development phase (like design), there is a corresponding testing phase (like test design) running in parallel. It places a strong emphasis on testing.  
 
