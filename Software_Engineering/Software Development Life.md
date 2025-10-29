@@ -1,5 +1,6 @@
 # Software Development Life Cycle(SDLC)
 It is used by many Software Companies such as Google,Microsoft,wipro,Tcs etc so that the development process will be easier without any of the following issues
+
 i) Bugs
 ii) Cost
 iii) Launch the product fast
