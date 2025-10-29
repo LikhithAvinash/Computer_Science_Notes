@@ -5,7 +5,9 @@ ii) Cost
 iii) Launch the product fast  
 iv) Making the process small and easier  
 v) To make the product that is Suitable to the goal(Users)  
-
+   <details>
+      ![SDLC Diagram](https://github.com/LikhithAvinash/Computer_Science_Notes/raw/master/Software_Engineering/assets/SDLC.png)
+    </details>
 ## The above reason is why the SDLC is created
 In this there are 2 types  
 a) Traditional b) Evolutionary 
@@ -29,10 +31,9 @@ ii) **V-Model:** This is an extension of the Waterfall model. For every developm
     Stage_1: Plan: Figure out what you're going to do in this loop (the goals, the features).  
     Stage_2: Risk Analysis: Ask, "What is the biggest thing that could make this project fail?" (e.g., the technology is too slow, the budget is too small, etc.).  
     Stage_3: Build: Make a small version (a prototype) of the product that specifically tests and solves that big risk.  
-    Stage_4: Review: Show the prototype to the client/user. Do they like it? Did it solve the risk? What should we do in the next loop?  
-    <details>
-      ![SDLC Diagram](https://github.com/LikhithAvinash/Computer_Science_Notes/raw/master/Software_Engineering/assets/SDLC.png)
-    </details>
+    Stage_4: Review: Show the prototype to the client/user. Do they like it? Did it solve the risk? What should we do in the next loop? 
+    
+   <details>![Spiral Model](https://github.com/LikhithAvinash/Computer_Science_Notes/blob/master/Software_Engineering/assets/spiral.png)</details>
 
 ### Traditional vs Evolutionary
 <details>
