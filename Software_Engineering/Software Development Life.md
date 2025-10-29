@@ -31,6 +31,7 @@ ii) V-Model: This is an extension of the Waterfall model. For every development 
 
 ### Traditional vs Evolutionary
 
+<img width="675" height="899" alt="Traditional vs Evolutionary" src="https://github.com/user-attachments/assets/cd2fcf0a-1f24-4f4c-9b80-b1491d7ba11c" />
 
 
 
